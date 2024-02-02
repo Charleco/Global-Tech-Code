@@ -1,0 +1,27 @@
+/* pallete: https://lospec.com/palette-list/lava-gb */
+
+body {
+    color: #ff8e80      ;
+    background-color: #051f39  ;
+    font-family: "Arial", sans-serif, cursive;
+}
+header{
+  color:#c53a9d ;
+  font-family: "Beau Rivage";
+  font-size: 40px;
+}
+hr{
+  color: #c53a9d ;
+}
+#donation{
+  color:#c53a9d ;
+  font-weight: bold;
+}
+#pricing-table, h5{
+  color: #4a2480 ;
+  text-decoration: line-through;
+  text-decoration-color:#c53a9d ;
+}
+address{
+ font-weight: bold;
+}
