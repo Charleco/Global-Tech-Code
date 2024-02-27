@@ -1,0 +1,74 @@
+/* DEBUG */
+/* * {
+    background-color: black !important;
+    color: black !important;
+    border: 2px solid red !important;
+} */
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #f5e2a9 ;
+}
+
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/hotel.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 500px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
+  position: relative;
+  border: solid;
+}
+
+.heroText{
+  text-align: center;
+  color: white;
+  padding: 100px 250px;
+  color: black;
+  font-family: "Honk", system-ui;
+  font-size: 120%;
+} 
+
+nav{
+  background-color: #96cff2;
+  padding: 0px;
+  margin: 0px;
+}
+
+#navList{
+  margin: 0px;
+  padding: 10px;
+  list-style: none;
+  text-align: center;
+}
+
+#navList li{
+  display: inline-block;
+  padding: 10px;
+}
+.about{
+  padding: 10px;
+}
+h2{
+  border:solid;
+  background-color: #96cff2;
+  margin: 10px 10px 0px 10px;
+  font-family: "Rubik", system-ui;;
+}
+.about img
+{
+  margin: 0px 20px 0px 0px;
+  width: 300px;
+  float:left;
+  border:solid;
+}
+.about span{
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+  width: 300px;
+  background-color: #7e84d9;
+}
