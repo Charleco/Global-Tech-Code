@@ -1,0 +1,5 @@
+# Your Task
+
+Let's bring all your knowledge of CSS together with a fun—and challenging!—Milestone. We'll be building a landing page for a company called Eco-Friendly Steamers. They actually hired another dev, and you'll be starting with the version of the website that they put together. Why did this carpet steaming company fire them and hire you to re-do the website? Hmmm... Let's just say their styling choices could use some work (you'll see).
+
+The CEO of the eco-friendly steamers asked you to make their web page look better, and have it include an interest form, following a popular layout used on the websites of service-providing companies. You'll start by coding along with Dr. Small in the demo video below, then give it your own personal styling twist. Ready? Open up the Repl and let's do this! (no need to fork) 
